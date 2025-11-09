@@ -2,7 +2,7 @@
 
 Hi! I'm Mery! My pronouns are ***(she/her)***
 
-I'm an UX/UI + AX designer & researcher. But now I'm focusing in Software & Video Game QA Testing + Developing (Python, C#).
+I'm a versatile UX/UI + AX designer & researcher. Also I'm a developer (Python, C#) & tester (software, vgames).
 
 Accessibility, inclusion and diversity advocate
 
